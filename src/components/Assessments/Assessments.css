@@ -1,0 +1,15 @@
+
+
+.bi-chat {
+    border: 1px solid;
+    padding: 8px;
+  }
+  .chaticon {
+    padding: 10px 19px;
+  }
+  
+  @media (max-width: 512px) {
+    .chaticon {
+        padding: 20px 16px;
+    }
+  }
